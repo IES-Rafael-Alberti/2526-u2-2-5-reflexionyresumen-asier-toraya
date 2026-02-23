@@ -101,32 +101,32 @@ La duda que más me queda es hasta qué punto conviene automatizar respuestas en
 ### 2.3) Procesos / procedimientos (pasos o checklist)
 
 - **Proceso de gestión de incidentes (macro)**
-  - 1. Preparación.
-  - 2. Identificación.
-  - 3. Contención.
-  - 4. Erradicación.
-  - 5. Recuperación.
-  - 6. Lecciones aprendidas.
+  -  Preparación.
+  -  Identificación.
+  -  Contención.
+  -  Erradicación.
+  -  Recuperación.
+  -  Lecciones aprendidas.
 - **Proceso de clasificación y priorización**
-  - 1. Tipificar incidente (taxonomía).
-  - 2. Estimar peligrosidad.
-  - 3. Estimar impacto.
-  - 4. Asignar prioridad y SLA.
-  - 5. Ejecutar respuesta acorde.
+  -  Tipificar incidente (taxonomía).
+  -  Estimar peligrosidad.
+  -  Estimar impacto.
+  -  Asignar prioridad y SLA.
+  -  Ejecutar respuesta acorde.
 - **Proceso operativo SIEM/IMS**
-  - 1. Ingesta de logs (agente/syslog/agentless).
-  - 2. Normalización + enriquecimiento.
-  - 3. Correlación y alerta.
-  - 4. Creación de caso en IMS.
-  - 5. Triage con playbook.
-  - 6. Cierre (TP/FP) + feedback a reglas.
+  -  Ingesta de logs (agente/syslog/agentless).
+  -  Normalización + enriquecimiento.
+  -  Correlación y alerta.
+  -  Creación de caso en IMS.
+  -  Triage con playbook.
+  -  Cierre (TP/FP) + feedback a reglas.
 - **Proceso OSINT**
-  - 1. Planificación.
-  - 2. Identificación de fuentes.
-  - 3. Adquisición.
-  - 4. Procesamiento.
-  - 5. Análisis.
-  - 6. Difusión/inteligencia.
+  -  Planificación.
+  -  Identificación de fuentes.
+  -  Adquisición.
+  -  Procesamiento.
+  -  Análisis.
+  -  Difusión/inteligencia.
 - **Checklist mínimo de documentación de incidente**
   - Datos generales (quién, cuándo, cómo se detectó).
   - Clasificación y valoración.
@@ -194,6 +194,7 @@ La duda que más me queda es hasta qué punto conviene automatizar respuestas en
 
 ## 3) (Opcional) Evidencias y recursos usados
 
+- Trabajo de OSINT 2.d.01 - [PDF](evidencias/IS-2.d.01-AG.pdf)
 - [Documentación de la unidad dos - https://revilofe.github.io/section2/u02/](https://revilofe.github.io/section2/u02/)
 
 ## 4) Conclusión (cierre)
